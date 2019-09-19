@@ -1,1 +1,1 @@
-# spring-security-inmemory-example
+# spring-security-inmemory-authentication
